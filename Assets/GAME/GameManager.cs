@@ -12,6 +12,9 @@ public class GameManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		//replaySystem = FindObjectOfType<ReplaySystem>();
+//		PlayerPrefsManager.UnlockLevel(1);
+//		print (PlayerPrefsManager.IsLevelUnlocked (0));
+//		print (PlayerPrefsManager.IsLevelUnlocked (1));
 	}
 	
 	// Update is called once per frame
